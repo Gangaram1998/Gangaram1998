@@ -1,4 +1,4 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=rationalprabal&style=for-the-badge&color=ee4e20" alt="Gangaram"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Gangaram1998&style=for-the-badge&color=ee4e20" alt="Gangaram"/></p>
 <h1 align="center">Hi 🙋‍♂️, I'm Gangaram</h1>
 <div align="center"> 
  <img align="center" src="https://img.shields.io/badge/<Full Stack Web Developer/> -571845?style=for-the-badge&logo=developer?logoWidth=90"  alt="developer" />
