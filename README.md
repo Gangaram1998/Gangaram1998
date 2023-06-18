@@ -66,7 +66,7 @@
 <h3 align="center">Interested To Work Together ? Let's Connect :handshake:</h3>
 
 <div align="center"> 
-<a href="https://rationalprabal.github.io" target="_blank"><img  align="center"  src="https://img.shields.io/badge/Portfolio-319795?style=for-the-badge&logo=portfolio" alt="portfolio"></a>
+<a href="https://gangaram1998.github.io" target="_blank"><img  align="center"  src="https://img.shields.io/badge/Portfolio-319795?style=for-the-badge&logo=portfolio" alt="portfolio"></a>
  <a href="mailto:ramggawade1998@gmail.com" target="_blank"><img  align="center"  src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=email" alt="email"></a>
 <a href="https://www.linkedin.com/in/gangaram-gawade-a73301240/" target="_blank"><img  align="center"  src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
  <a href="https://api.whatsapp.com/send?phone=8421361557" target="_blank"><img  align="center"  src="https://img.shields.io/badge/WhatsApp-2fe664?style=for-the-badge&logo=whatsapp" alt="whatsapp"></a>
